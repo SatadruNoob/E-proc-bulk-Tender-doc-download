@@ -1,0 +1,40 @@
+https://mptenders.gov.in/nicgep/app
+37 links/buttons
+
+{"tag": "A", "id": "link1", "name": "link1", "text": "Screen Reader Access", "href": "/nicgep/app?page=WebScreenReaderAccess&service=page"}
+{"tag": "A", "id": "link1", "name": "link1", "text": "Search", "href": "/nicgep/app?page=FrontEndAdvancedSearch&service=page"}
+{"tag": "A", "id": "link1", "name": "link1", "text": "Active Tenders", "href": "/nicgep/app?page=FrontEndLatestActiveTenders&service=page"}
+{"tag": "A", "id": "link1", "name": "link1", "text": "Tenders by Closing Date", "href": "/nicgep/app?page=FrontEndListTendersbyDate&service=page"}
+{"tag": "A", "id": "link1", "name": "link1", "text": "Corrigendum", "href": "/nicgep/app?page=FrontEndLatestActiveCorrigendums&service=page"}
+{"tag": "A", "id": "link1", "name": "link1", "text": "Results of Tenders", "href": "/nicgep/app?page=ResultOfTenders&service=page"}
+{"tag": "A", "id": "homeLink", "name": null, "text": "", "href": "/nicgep/app?service=restart"}
+{"tag": "A", "id": "PageLink_6", "name": null, "text": "", "href": "/nicgep/app?page=FrontEndContactUs&service=page"}
+{"tag": "A", "id": "PageLink_7", "name": null, "text": "", "href": "/nicgep/app?page=SiteMap&service=page"}
+{"tag": "A", "id": "PageLink_8", "name": null, "text": "", "href": "/nicgep/app?page=Home&service=page"}
+{"tag": "A", "id": "GenericLink", "name": null, "text": "MIS Reports", "href": "https://gepnicreports.gov.in/eprocreports/mp/"}
+{"tag": "A", "id": "PageLink", "name": null, "text": "Tenders by Location", "href": "/nicgep/app?page=FrontEndTendersByLocation&service=page"}
+{"tag": "A", "id": "PageLink_0", "name": null, "text": "Tenders by Organisation", "href": "/nicgep/app?page=FrontEndTendersByOrganisation&service=page"}
+{"tag": "A", "id": "PageLink_1", "name": null, "text": "Tenders by Classification", "href": "/nicgep/app?page=FrontEndTendersByClassification&service=page"}
+{"tag": "A", "id": "PageLink_2", "name": null, "text": "Tenders in Archive", "href": "/nicgep/app?page=FrontEndTendersInArchive&service=page"}
+{"tag": "A", "id": "PageLink_3", "name": null, "text": "Tenders Status", "href": "/nicgep/app?page=WebTenderStatusLists&service=page"}
+{"tag": "A", "id": "PageLink_4", "name": null, "text": "Cancelled/Retendered", "href": "/nicgep/app?page=WebCancelledTenderLists&service=page"}
+{"tag": "A", "id": "PageLink_5", "name": null, "text": "Downloads", "href": "/nicgep/app?page=StandardBiddingDocuments&service=page"}
+{"tag": "A", "id": "PageLink_9", "name": null, "text": "Debarment List", "href": "/nicgep/app?page=FrontEndDebarmentList&service=page"}
+{"tag": "A", "id": "PageLink_10", "name": null, "text": "Announcements", "href": "/nicgep/app?page=WebAnnouncements&service=page"}
+{"tag": "A", "id": "PageLink_11", "name": null, "text": "Recognitions", "href": "/nicgep/app?page=WebAwards&service=page"}
+{"tag": "A", "id": "PageLink_12", "name": null, "text": "Site compatibility", "href": "/nicgep/app?page=SiteComp&service=page"}
+{"tag": "A", "id": "GenericLink_0", "name": null, "text": "", "href": "https://gepnic.gov.in"}
+{"tag": "A", "id": "GenericLink_0_0", "name": null, "text": "", "href": "http://india.gov.in"}
+{"tag": "A", "id": "GenericLink_0_1", "name": null, "text": "", "href": "https://eprocure.gov.in/eprocdashboard?siteCode=MP"}
+{"tag": "A", "id": "GenericLink_0_2", "name": null, "text": "", "href": "http://mp.gov.in/"}
+{"tag": "A", "id": "GenericLink_0_3", "name": null, "text": "", "href": "http://eprocure.gov.in/cppp"}
+{"tag": "A", "id": "DirectLink", "name": null, "text": "View More Details", "href": "/nicgep/app?component=%24DirectLink&page=FrontEndTenderDetails&service=direct&session=T&sp=Sjao6BFNO85wqGVWXQQa62OSJge%2FMOuBR%2BaAsI38I%2Bs4%3D"}
+{"tag": "A", "id": "DirectLink_0", "name": null, "text": "Tendernotice_1.pdf", "href": "/nicgep/app?component=%24DirectLink_0&page=FrontEndTenderDetails&service=direct&session=T&sp=StSLT49veZiIXjTtlK8nDnreuwXfblWZgTS6GPnZpblc%3D"}
+{"tag": "A", "id": "DirectLink_1", "name": null, "text": "", "href": "/nicgep/app?component=%24DirectLink_1&page=FrontEndTenderDetails&service=direct&session=T&sp=ZH4sIAAAAAAAAAGWRsUvDQBTGX6oFaa3UCm5CwUFwuCougkvRLimhFFocXCQmr%2FGkvYuXa6gOooM6VNBBNwcHx%2F4pOjor4lrRqaCLl7"}
+{"tag": "A", "id": "DirectLink_7", "name": null, "text": "Download as zip file", "href": "/nicgep/app?component=%24DirectLink_7&page=FrontEndTenderDetails&service=direct&session=T&sp=SsLggNG%2BMdTCJc1fvyU5GrNZr5kVlU%2FOsldnPQCdaR%2FM%3D"}
+{"tag": "A", "id": "DirectLink_9", "name": null, "text": "", "href": "/nicgep/app?component=%24DirectLink_9&page=FrontEndTenderDetails&service=direct&session=T&sp=ZH4sIAAAAAAAAAF2RP2gUQRTG395dIMnlQjwt%2FIMYECKC7JFUJyco8QQvLkG4QxGrye3LZpLd2cnM2%2FMuhVwaRVJoYfoUdgYbCxtBsL"}
+{"tag": "A", "id": "DirectLink_9_0", "name": null, "text": "", "href": "/nicgep/app?component=%24DirectLink_9&page=FrontEndTenderDetails&service=direct&session=T&sp=ZH4sIAAAAAAAAAGWSP2gTURzHf5ekEE1T2rj4B6EgFAS5YBAUspSaJfUISoIiTq95v15fe%2Ffu9d7v0ouDtIOKdNBBV%2BkgLnbroJvo1M"}
+{"tag": "A", "id": "DirectLink_9_1", "name": null, "text": "", "href": "/nicgep/app?component=%24DirectLink_9&page=FrontEndTenderDetails&service=direct&session=T&sp=ZH4sIAAAAAAAAAF2QMWgTURjHv8ul0Jom1LhURRGEgiAvEFQCWUoMQupRlQRFHOQl93l97d2763vfpRcHsYsiHeyguHZws4Pg4CIITg6uLi"}
+{"tag": "A", "id": "DirectLink_11", "name": null, "text": "Back", "href": "/nicgep/app?component=%24DirectLink_11&page=FrontEndTenderDetails&service=direct&session=T"}
+{"tag": "A", "id": "", "name": null, "text": "National Informatics Centre", "href": "http://www.nic.in"}
+{"tag": "A", "id": "PageLink_13", "name": null, "text": "Portal policies", "href": "/nicgep/app?page=Disclaimer&service=page"}

@@ -1,0 +1,83 @@
+time,state,tender_id,status,note
+2026-10-12T17:28:42,Goa,2026_DDW_32014_1,error,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://goaeprocure.gov.in/nicgep/app?page=FrontEndAdvancedSearch&service=page
+Call log:
+  - navigating to ""https://goaeprocure.gov.in/nicgep/app?page=FrontEnd"
+2026-10-12T17:28:42,NTPC Limited,2026_NTPC_112427_1,error,"Page.goto: Navigation to ""https://eprocurentpc.nic.in/nicgep/app?page=FrontEndAdvancedSearch&service=page"" is interrupted by another navigation to ""chrome-error://chromewebdata/""
+Call log:
+  - navigat"
+2026-10-12T17:28:42,Central Govt eProcurement,2026_AMSBL_926915_1,error,"Page.goto: Navigation to ""https://eprocure.gov.in/eprocure/app?page=FrontEndAdvancedSearch&service=page"" is interrupted by another navigation to ""https://eprocurentpc.nic.in/nicgep/app?page=FrontEndAd"
+2026-10-12T17:31:33,Goa,2026_DDW_32014_1,not_found,not in the portal's active listing (closed/withdrawn?)
+2026-10-12T17:32:09,NTPC Limited,2026_NTPC_112427_1,ok,downloads\NTPC Limited\2026_NTPC_112427_1.zip
+2026-10-12T17:32:13,Central Govt eProcurement,2026_AMSBL_926915_1,not_found,not in the portal's active listing (closed/withdrawn?)
+2026-10-12T17:33:53,Tamil Nadu,2026_DoTE_708089_1,ok,downloads\Tamil Nadu\2026_DoTE_708089_1.pdf
+2026-10-12T17:34:15,Defence e-Procurement,2026_MES_777640_3,ok,downloads\Defence e-Procurement\2026_MES_777640_3.zip
+2026-10-12T17:34:44,CPSE eProcurement,2026_CSL_290903_1,ok,downloads\CPSE eProcurement\2026_CSL_290903_1.zip
+2026-10-12T17:39:55,Uttar Pradesh,2026_NNKAN_1195180_16,ok,downloads\Uttar Pradesh\2026_NNKAN_1195180_16.pdf
+2026-10-12T17:39:59,Uttar Pradesh,2026_DOLBU_1188170_3,ok,downloads\Uttar Pradesh\2026_DOLBU_1188170_3.zip
+2026-10-12T17:40:24,NCT Delhi,2026_PWD_299467_1,ok,downloads\NCT Delhi\2026_PWD_299467_1.pdf
+2026-10-12T17:41:46,NTPC Limited,2026_NTPC_112361_1,ok,downloads\NTPC Limited\2026_NTPC_112361_1.zip
+2026-10-12T17:42:17,Kerala,2026_PWD_875891_1,ok,downloads\Kerala\2026_PWD_875891_1.zip
+2026-10-12T17:42:20,Kerala,2026_PWD_875858_1,ok,downloads\Kerala\2026_PWD_875858_1.zip
+2026-10-12T17:42:41,Defence e-Procurement,2026_MES_786816_2,ok,downloads\Defence e-Procurement\2026_MES_786816_2.zip
+2026-10-12T17:42:46,Defence e-Procurement,2026_IAF_789843_1,ok,downloads\Defence e-Procurement\2026_IAF_789843_1.zip
+2026-10-12T17:43:05,Rajasthan,2026_DLB_602712_1,ok,downloads\Rajasthan\2026_DLB_602712_1.zip
+2026-10-12T17:43:32,Coal India Limited,2026_ECL_366441_1,ok,downloads\Coal India Limited\2026_ECL_366441_1.pdf
+2026-10-12T17:43:54,Jharkhand,2026_JSEB_119101_1,ok,downloads\Jharkhand\2026_JSEB_119101_1.zip
+2026-10-12T17:44:16,Uttarakhand,2026_PTCUX_100796_1,ok,downloads\Uttarakhand\2026_PTCUX_100796_1.zip
+2026-10-12T17:44:20,Kerala,2026_KEL_872564_2,ok,downloads\Kerala\2026_KEL_872564_2.zip
+2026-10-12T17:44:23,Kerala,2026_KEL_871921_2,ok,downloads\Kerala\2026_KEL_871921_2.zip
+2026-10-12T17:44:57,Uttar Pradesh,2026_GNIDA_1190798_7,ok,downloads\Uttar Pradesh\2026_GNIDA_1190798_7.pdf
+2026-10-12T17:45:41,MP,2026_UAD_539360_8,error,"Page.wait_for_timeout: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Rajasthan,2026_RRVUN_601009_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_EB_705876_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Kerala,2026_KP_876581_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,CPSE eProcurement,2026_TCIL_293125_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,BEL Defence,2026_BEL_100297_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Kerala,2026_KUHS_877521_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_PWD_710063_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tripura,2026_CEPWD_78009_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,NTPC Limited,2026_NTPC_112227_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Odisha,2026_EICCL_142948_7,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Punjab,2026_DLG_176034_9,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,MP,2026_MPP_540039_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Uttar Pradesh,2026_CEUVZ_1193790_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Kerala,2026_ANERT_854659_2,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Maharashtra,2026_CSWD_1340191_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Kerala,2026_PWD_843668_2,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,BEL Defence,2026_BEL_100347_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Himachal,2026_HPSEB_145127_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Defence e-Procurement,2026_MES_791373_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,NTPC Limited,2026_NTPC_112557_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Defence e-Procurement,2026_MES_790655_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,CPSE eProcurement,2026_RBI_292285_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_MAWS_711123_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Rajasthan,2026_RNTMC_600803_4,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_HE_710821_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Punjab,2026_POWER_175772_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_DoTE_710896_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_HE_709865_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,CPSE eProcurement,2026_BSNL_292944_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Central Govt eProcurement,2026_NITW_928270_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Defence e-Procurement,2026_MES_780389_2,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_HE_712161_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Uttar Pradesh,2026_DOLBU_1192459_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,MP,2026_UAD_540343_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Kerala,2026_LSGD_877823_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Uttar Pradesh,2026_DOLBU_1191458_16,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_DoTE_712376_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_PWD_712420_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,West Bengal,2026_WBSED_1044494_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,West Bengal,2026_WBSED_1042736_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,West Bengal,2026_WBSED_1042610_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,West Bengal,2026_CID_1042625_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Tamil Nadu,2026_DoTE_711728_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,West Bengal,2026_KVIB_1045581_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Haryana,2026_HBC_550713_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Uttar Pradesh,2026_NNVAR_1194176_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,MP,2026_MPP_541957_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,MP,2026_MPP_541953_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Uttarakhand,2026_PTCUX_100939_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,MP,2026_MPFD_541547_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,CPSE eProcurement,2026_AAI_293711_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T17:45:41,Haryana,2026_HRY_551555_1,error,"Page.goto: Target page, context or browser has been closed"
+2026-10-12T18:33:06,MP,2026_UAD_539360_8,ok,3 files in downloads\MP\2026_UAD_539360_8: Tendernotice_1.pdf; work_648825.zip; work_648825.zip
